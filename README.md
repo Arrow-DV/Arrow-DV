@@ -1,5 +1,3 @@
-# Arrow Dev | Ali Hany
-```
-while alive():
-    upgrade_skills()
-```
+# Arrow-Dev
+
+<img src="arrow.gif">
