@@ -51,8 +51,12 @@
 ## 📫 Connect with Me
 
 <p align="left">
-    <a href="https://mail.google.com/mail/d/sahm.devv/#compose">sahm.devv@gmail.com</a>
-</p>
+    <h4>
+<a href="https://mail.google.com/mail/?view=cm&to=sahm.devv@gmail.com" target="_blank">
+  sahm.devv@gmail.com
+</a>
+    </h4>
+    </p>
 
 ---
 
