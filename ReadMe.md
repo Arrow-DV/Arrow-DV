@@ -50,13 +50,13 @@
 
 ## 📫 Connect with Me
 
-<p align="left">
-    <h4>
-<a href="https://mail.google.com/mail/?view=cm&to=sahm.devv@gmail.com" target="_blank">
-  sahm.devv@gmail.com
-</a>
-    </h4>
-    </p>
+<p align="center">
+    <h3>
+        <a href="https://mail.google.com/mail/?view=cm&to=sahm.devv@gmail.com" target="_blank">
+          sahm.devv@gmail.com
+        </a>
+    </h3>
+</p>
 
 ---
 
